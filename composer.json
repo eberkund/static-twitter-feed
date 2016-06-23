@@ -1,0 +1,14 @@
+{
+    "name": "erik/neuronicworks",
+    "authors": [
+        {
+            "name": "Erik Berkun-Drevnig",
+            "email": "erik.b22@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/twitter": "^1.1",
+        "oscarotero/env": "^1.0",
+        "vlucas/phpdotenv": "^2.3"
+    }
+}
