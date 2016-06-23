@@ -1,9 +1,10 @@
 {
-    "name": "erik/neuronicworks",
+    "name": "eberkund/static-twitter-feed",
+    "description": "Twitter API for static websites",
+    "keywords": ["twitter", "php", "oauth", "caching"],
     "authors": [
         {
-            "name": "Erik Berkun-Drevnig",
-            "email": "erik.b22@gmail.com"
+            "name": "Erik Berkun-Drevnig"
         }
     ],
     "require": {
