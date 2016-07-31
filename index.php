@@ -22,4 +22,7 @@ $tweets = $twitter->getTimeline([
     'count' => 2
 ]);
 
-file_put_contents('tweets.json', json_encode($tweets));
+file_put_contents(
+    'tweets.json',
+    json_encode($tweets, JSON_PRETTY_PRINT)
+);
